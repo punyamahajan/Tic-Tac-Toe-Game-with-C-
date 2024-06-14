@@ -1,4 +1,4 @@
-This Tic-Tac-Toe Game in C++ repository! This project contains a simple implementation of the classic Tic-Tac-Toe game, where you can play against the computer. The game is developed using C++ and demonstrates basic concepts of arrays, loops, conditionals, and simple game logic.
+This project contains a simple implementation of the classic Tic-Tac-Toe game, where you can play against the computer. The game is developed using C++ and demonstrates basic concepts of arrays, loops, conditionals, and simple game logic.
 
 Features:
 
